@@ -20,6 +20,8 @@ _After cloning you’ll probably want to delete the initial `_data/sites/*.js` f
 
 ```
 npm install
-npm run test-pages
-npm run start
+npm start
+npm test-pages
 ```
+
+Navigate to http://localhost:8080/ in your web browser.
