@@ -13,3 +13,13 @@ IoT, most importantly, can work remotely tuned
 ## Started by example from
 
 The site based on project [demo-eleventy-from-scratch-blog](https://github.com/11ty/demo-eleventy-from-scratch-blog/tree/main) on github
+
+## Run locally
+
+_After cloning you’ll probably want to delete the initial `_data/sites/*.js` files and create your own file with a list of your own site URLs!_
+
+```
+npm install
+npm run test-pages
+npm run start
+```
